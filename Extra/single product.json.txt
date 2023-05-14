@@ -1,0 +1,61 @@
+[
+  {
+    "id": "serialnod",
+    "breed": "Polydactyl Cat",
+    "age": "2 months",
+    "price": 350000,
+    "colors": [
+      "#000",
+      "#22D3EF"
+    ],
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "Cat",
+    "featured": false,
+    "shipping": true,
+    "stock": 10,
+    "reviews": 28,
+    "image": [
+      {
+        "id": "randomid1",
+        "height": 650,
+        "width": 1080,
+        "url": " https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg?w=600&q=60",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png",
+        "_id": "63c7058385ef6f5834a9ae8a"
+      },
+      {
+        "id": "randomid2",
+        "height": 650,
+        "width": 1080,
+        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png",
+        "_id": "63c7058385ef6f5834a9ae8b"
+      },
+      {
+        "id": "randomid3",
+        "height": 650,
+        "width": 1080,
+        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png",
+        "_id": "63c7058385ef6f5834a9ae8c"
+      },
+      {
+        "id": "randomid4",
+        "height": 650,
+        "width": 1080,
+        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png",
+        "_id": "63c7058385ef6f5834a9ae8d"
+      }
+    ],
+    "stars": 4.4
+  }
+]

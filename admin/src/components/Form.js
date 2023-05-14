@@ -270,6 +270,9 @@ const Form = () => {
 };
 
 const Wrapper = styled.section`
+  overflow-y: scroll;
+  max-height: 40rem;
+
   .image-blocks {
     background-color: aqua;
     margin-top: 2rem;

@@ -39,7 +39,7 @@ function App() {
 }
 
 const Wrapper = styled.section`
-  border-radius: 1rem;
+  /* border-radius: 1rem; */
   overflow-x: hidden;
 
   .container {
@@ -64,6 +64,29 @@ const Wrapper = styled.section`
 
   .main {
     background: linear-gradient(#f5f7fa, #c3cfe2);
+    height: 100vh;
+    /* overflow-y: scroll; */
+
+    /* for scrollbar  customazation start */
+    scrollbar-color: rgb(98 84 243);
+    scrollbar-width: thin;
+    section::-webkit-scrollbar {
+      width: 1.5rem;
+    }
+
+    section::-webkit-scrollbar-track {
+      background-color: rgb(24 24 29);
+    }
+
+    section::-webkit-scrollbar-thumb {
+      background: #fff;
+      border: 5px solid transparent;
+      border-radius: 9px;
+      background-clip: content-box;
+    }
+    */
+
+    /* scrollbar customzation end 
   }
 
   @media (max-width: 768px) {
